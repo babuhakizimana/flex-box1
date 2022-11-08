@@ -1,0 +1,72 @@
+.themain{
+    display: center;
+    padding: 0px 20px 20px 20px;
+    border: 7px solid black;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(166, 31, 31);
+    padding: 0px;
+    color: rgb(239, 233, 233);
+}
+
+.mainsecond{
+    display: center;
+    display: center;
+    padding: 0px 20px 20px 20px;
+    border: 7px solid black;
+}
+.icons{
+    display: flex;
+    gap: 7px;
+}
+.justice-icon{
+
+    justify-content: space-between;
+    background-color: blue;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(166, 31, 31);
+    padding: 6px;
+    color: rgb(239, 233, 233);
+}
+
+.magic{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 20px 20px 0px;
+    border: 7px solid black;
+    
+  }
+ 
+.hommy{
+    padding: 6px;
+  }
+ 
+ 
+ .hommy:hover{
+    background-color: green;
+    
+ }
+
+  .theblue{
+    display: flex;
+    justify-content: flex-end;
+    background-color: blue;
+    padding: 20px 2px 20px 20px;
+    color: white;
+    
+  }
+  .containerblue{
+    border: 7px solid black;
+    padding: 4px 0px 4px 4px;
+  }
+  .holy{
+    padding-left: 40px;
+  }
+    
+
